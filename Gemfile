@@ -9,6 +9,7 @@ gem 'jquery-rails', '~> 3.0.0'
 gem 'grape', :git => "https://github.com/intridea/grape.git"
 gem 'uglifier', '>= 1.0.3'
 gem 'pg'
+gem 'rdoc'
 
 group :development, :test do
   gem "rspec", "~> 2.13.0"
