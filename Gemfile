@@ -10,10 +10,7 @@ gem 'grape', :git => "https://github.com/intridea/grape.git"
 gem 'uglifier', '>= 1.0.3'
 gem 'pg'
 gem 'rdoc'
-
-group :development, :test do
   gem "rspec", "~> 2.13.0"
   gem "rspec-rails", "~> 2.13.1"
   gem "capybara", "~> 2.1.0"
   gem "selenium-webdriver", "~> 2.33.0"
-end
