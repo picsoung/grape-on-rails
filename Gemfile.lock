@@ -87,6 +87,7 @@ GEM
     multi_xml (0.5.4)
     nokogiri (1.5.9)
     nokogiri (1.5.9-java)
+    pg (0.17.0)
     polyglot (0.3.3)
     rack (1.5.2)
     rack-accept (0.4.5)
@@ -174,6 +175,7 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0.rc1)
   grape!
   jquery-rails (~> 3.0.0)
+  pg
   rails (= 4.0.0.rc1)
   rspec (~> 2.13.0)
   rspec-rails (~> 2.13.1)
